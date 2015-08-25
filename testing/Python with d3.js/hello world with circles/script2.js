@@ -1,0 +1,1 @@
+d3.json("tweets.json",function(data) {console.log(data)}); 
