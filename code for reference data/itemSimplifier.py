@@ -43,29 +43,31 @@ def main():
 	# link ID and descriptions as a reference
 	itemDescriptions = dict(zip(nameIds, itemDescriptions))
 
+	pprint(itemReference)
+
+	with open('itemListTotalReference.json', 'w') as outfile:
+		json.dump(itemReference, outfile, indent=4)
 	# sort the itemDescriptions
-	sortedItemIds = [nameId
-					for nameId in itemData['data']
-					if 'ability' or 'mana' in itemDescriptions[nameId].lower()]
+	# sortedItemIds = [nameId
+	# 				for nameId in itemData['data']
+	# 				if 'ability' or 'mana' or 'penetratin' in itemDescriptions[nameId].lower()]
 
-	sortedItemNames = []
+	# sortedItemNames = [itemData['data'][nameId]['name']
+	# 				   for nameId in sortedItemIds]
 
-	sortedItemDescriptions = [itemDescriptions[nameId]
-							  for nameId in itemData['data']
-							  if 'ability' or 'mana' or 'penetration' in itemDescriptions[nameId].lower()]
-	pprint(sortedItemDescriptions)
+	# sortedItemDescriptions = [itemDescriptions[nameId]
+	# 						  for nameId in itemData['data']
+	# 						  if 'ability' or 'mana' or 'penetration' in itemDescriptions[nameId].lower()]
 	
-	#for descriptions in itemDescriptions:
-	#	print(descriptions[''])		
-
-		# if('ability' in descriptions.lower()):
-		# 	print('hi')
+	# link sorted stuff properly
+	#itemDescriptions2 = dict(zip(sortedItemIds, zip(sortedItemNames, sortedItemDescriptions)))
+	#itemReference = dict(zip(sortedItemIds, sortedItemNames))
 
 	# print to file for use in deleting unneeded entries
-	#with open('itemReference.json', 'w') as outfile:
+	# with open('itemReference.json', 'w') as outfile:
 	#	json.dump(itemReference, outfile, indent=4)
 	# print to file for information when deleting unneeded entires
-	#with open('itemDescriptions.json', 'w') as outfile:
+	# with open('itemDescriptions.json', 'w') as outfile:
 	#	json.dump(itemDescriptions, outfile, indent=4)
 		
 	# eliminate other values depending on phrases in the descriptions

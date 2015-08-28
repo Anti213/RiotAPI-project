@@ -1,0 +1,534 @@
+[
+{
+    "matchDuration": 3429,
+    "teams": {
+        "bans": [
+            {
+                "pickTurn": 2,
+                "championId": 245
+            },
+            {
+                "pickTurn": 4,
+                "championId": 7
+            },
+            {
+                "pickTurn": 6,
+                "championId": 254
+            }
+        ],
+        "winner": true,
+        "firstInhibitor": false,
+        "inhibitorKills": 4,
+        "dominionVictoryScore": 0,
+        "firstBlood": true,
+        "dragonKills": 3,
+        "firstTower": false,
+        "firstDragon": true,
+        "towerKills": 10,
+        "teamId": 200,
+        "firstBaron": true,
+        "vilemawKills": 0,
+        "baronKills": 3
+    },
+    "matchCreation": 1433976950634,
+    "championName": "Corki",
+    "region": "NA",
+    "championTitle": "the Daring Bombardier",
+    "matchVersion": "5.11.0.270",
+    "participants": {
+        "highestAchievedSeasonTier": "BRONZE",
+        "stats": {
+            "totalDamageTaken": 29013,
+            "inhibitorKills": 1,
+            "visionWardsBoughtInGame": 0,
+            "neutralMinionsKilledTeamJungle": 26,
+            "totalHeal": 6492,
+            "wardsPlaced": 16,
+            "champLevel": 18,
+            "physicalDamageDealt": 206638,
+            "totalDamageDealt": 393065,
+            "firstInhibitorKill": false,
+            "winner": true,
+            "goldSpent": 20183,
+            "physicalDamageDealtToChampions": 31473,
+            "kills": 21,
+            "neutralMinionsKilledEnemyJungle": 4,
+            "totalPlayerScore": 0,
+            "quadraKills": 0,
+            "magicDamageTaken": 16821,
+            "pentaKills": 0,
+            "largestCriticalStrike": 1451,
+            "trueDamageDealt": 15245,
+            "totalTimeCrowdControlDealt": 808,
+            "wardsKilled": 1,
+            "item1": 3078,
+            "unrealKills": 0,
+            "minionsKilled": 254,
+            "trueDamageDealtToChampions": 4261,
+            "item2": 3035,
+            "trueDamageTaken": 129,
+            "deaths": 6,
+            "largestMultiKill": 3,
+            "neutralMinionsKilled": 30,
+            "tripleKills": 1,
+            "item6": 3363,
+            "firstInhibitorAssist": false,
+            "item3": 3072,
+            "sightWardsBoughtInGame": 1,
+            "firstTowerAssist": false,
+            "physicalDamageTaken": 12062,
+            "totalDamageDealtToChampions": 63628,
+            "firstBloodAssist": false,
+            "doubleKills": 4,
+            "objectivePlayerScore": 0,
+            "totalScoreRank": 0,
+            "item4": 3031,
+            "largestKillingSpree": 5,
+            "combatPlayerScore": 0,
+            "assists": 20,
+            "killingSprees": 5,
+            "towerKills": 1,
+            "item5": 3026,
+            "magicDamageDealtToChampions": 27893,
+            "firstTowerKill": false,
+            "totalUnitsHealed": 4,
+            "goldEarned": 23809,
+            "firstBloodKill": false,
+            "item0": 3255,
+            "magicDamageDealt": 171180
+        },
+        "championId": 42,
+        "teamId": 200,
+        "timeline": {
+            "goldPerMinDeltas": {
+                "tenToTwenty": 296.5,
+                "zeroToTen": 199.0,
+                "twentyToThirty": 532.5,
+                "thirtyToEnd": 492.12
+            },
+            "role": "DUO_CARRY",
+            "damageTakenPerMinDeltas": {
+                "tenToTwenty": 193.6,
+                "zeroToTen": 176.2,
+                "twentyToThirty": 876.6,
+                "thirtyToEnd": 600.8
+            },
+            "xpPerMinDeltas": {
+                "tenToTwenty": 328.6,
+                "zeroToTen": 313.3,
+                "twentyToThirty": 563.1,
+                "thirtyToEnd": 610.48
+            },
+            "lane": "BOTTOM",
+            "creepsPerMinDeltas": {
+                "tenToTwenty": 4.2,
+                "zeroToTen": 5.4,
+                "twentyToThirty": 5.6,
+                "thirtyToEnd": 4.0
+            }
+        },
+        "spell1Id": 4,
+        "spell2Id": 7
+    },
+    "queueType": "RANKED_SOLO_5x5"
+},
+{
+    "championName": "Corki",
+    "queueType": "RANKED_SOLO_5x5",
+    "region": "NA",
+    "matchVersion": "5.11.0.270",
+    "teams": {
+        "inhibitorKills": 4,
+        "firstTower": false,
+        "firstBlood": true,
+        "firstBaron": true,
+        "vilemawKills": 0,
+        "towerKills": 10,
+        "firstDragon": true,
+        "firstInhibitor": false,
+        "winner": true,
+        "baronKills": 3,
+        "dominionVictoryScore": 0,
+        "teamId": 200,
+        "dragonKills": 3,
+        "bans": [
+            {
+                "championId": 245,
+                "pickTurn": 2
+            },
+            {
+                "championId": 7,
+                "pickTurn": 4
+            },
+            {
+                "championId": 254,
+                "pickTurn": 6
+            }
+        ]
+    },
+    "matchDuration": 3429,
+    "participants": {
+        "spell1Id": 4,
+        "timeline": {
+            "damageTakenPerMinDeltas": {
+                "tenToTwenty": 193.6,
+                "thirtyToEnd": 600.8,
+                "twentyToThirty": 876.6,
+                "zeroToTen": 176.2
+            },
+            "lane": "BOTTOM",
+            "xpPerMinDeltas": {
+                "tenToTwenty": 328.6,
+                "thirtyToEnd": 610.48,
+                "twentyToThirty": 563.1,
+                "zeroToTen": 313.3
+            },
+            "goldPerMinDeltas": {
+                "tenToTwenty": 296.5,
+                "thirtyToEnd": 492.12,
+                "twentyToThirty": 532.5,
+                "zeroToTen": 199.0
+            },
+            "role": "DUO_CARRY",
+            "creepsPerMinDeltas": {
+                "tenToTwenty": 4.2,
+                "thirtyToEnd": 4.0,
+                "twentyToThirty": 5.6,
+                "zeroToTen": 5.4
+            }
+        },
+        "highestAchievedSeasonTier": "BRONZE",
+        "teamId": 200,
+        "championId": 42,
+        "stats": {
+            "towerKills": 1,
+            "totalDamageDealtToChampions": 63628,
+            "goldSpent": 20183,
+            "physicalDamageDealtToChampions": 31473,
+            "totalPlayerScore": 0,
+            "totalDamageTaken": 29013,
+            "item0": 3255,
+            "totalDamageDealt": 393065,
+            "neutralMinionsKilled": 30,
+            "firstInhibitorKill": false,
+            "killingSprees": 5,
+            "firstInhibitorAssist": false,
+            "wardsPlaced": 16,
+            "magicDamageDealt": 171180,
+            "wardsKilled": 1,
+            "firstTowerKill": false,
+            "magicDamageTaken": 16821,
+            "totalTimeCrowdControlDealt": 808,
+            "objectivePlayerScore": 0,
+            "totalUnitsHealed": 4,
+            "neutralMinionsKilledEnemyJungle": 4,
+            "tripleKills": 1,
+            "item3": 3072,
+            "goldEarned": 23809,
+            "minionsKilled": 254,
+            "item5": 3026,
+            "neutralMinionsKilledTeamJungle": 26,
+            "largestKillingSpree": 5,
+            "assists": 20,
+            "winner": true,
+            "firstTowerAssist": false,
+            "magicDamageDealtToChampions": 27893,
+            "totalScoreRank": 0,
+            "kills": 21,
+            "inhibitorKills": 1,
+            "totalHeal": 6492,
+            "item6": 3363,
+            "combatPlayerScore": 0,
+            "item1": 3078,
+            "trueDamageTaken": 129,
+            "physicalDamageDealt": 206638,
+            "trueDamageDealt": 15245,
+            "visionWardsBoughtInGame": 0,
+            "item2": 3035,
+            "deaths": 6,
+            "quadraKills": 0,
+            "trueDamageDealtToChampions": 4261,
+            "doubleKills": 4,
+            "sightWardsBoughtInGame": 1,
+            "largestMultiKill": 3,
+            "unrealKills": 0,
+            "champLevel": 18,
+            "item4": 3031,
+            "pentaKills": 0,
+            "firstBloodAssist": false,
+            "physicalDamageTaken": 12062,
+            "firstBloodKill": false,
+            "largestCriticalStrike": 1451
+        },
+        "spell2Id": 7
+    },
+    "championTitle": "the Daring Bombardier",
+    "matchCreation": 1433976950634
+},
+{
+    "championName": "Corki",
+    "championTitle": "the Daring Bombardier",
+    "queueType": "RANKED_SOLO_5x5",
+    "matchDuration": 3429,
+    "participants": {
+        "timeline": {
+            "goldPerMinDeltas": {
+                "zeroToTen": 199.0,
+                "thirtyToEnd": 492.12,
+                "tenToTwenty": 296.5,
+                "twentyToThirty": 532.5
+            },
+            "creepsPerMinDeltas": {
+                "zeroToTen": 5.4,
+                "thirtyToEnd": 4.0,
+                "tenToTwenty": 4.2,
+                "twentyToThirty": 5.6
+            },
+            "lane": "BOTTOM",
+            "damageTakenPerMinDeltas": {
+                "zeroToTen": 176.2,
+                "thirtyToEnd": 600.8,
+                "tenToTwenty": 193.6,
+                "twentyToThirty": 876.6
+            },
+            "role": "DUO_CARRY",
+            "xpPerMinDeltas": {
+                "zeroToTen": 313.3,
+                "thirtyToEnd": 610.48,
+                "tenToTwenty": 328.6,
+                "twentyToThirty": 563.1
+            }
+        },
+        "teamId": 200,
+        "spell1Id": 4,
+        "stats": {
+            "killingSprees": 5,
+            "item1": 3078,
+            "totalDamageTaken": 29013,
+            "totalDamageDealt": 393065,
+            "assists": 20,
+            "doubleKills": 4,
+            "totalTimeCrowdControlDealt": 808,
+            "firstTowerAssist": false,
+            "physicalDamageDealt": 206638,
+            "totalHeal": 6492,
+            "sightWardsBoughtInGame": 1,
+            "inhibitorKills": 1,
+            "wardsPlaced": 16,
+            "goldSpent": 20183,
+            "champLevel": 18,
+            "largestKillingSpree": 5,
+            "magicDamageDealtToChampions": 27893,
+            "pentaKills": 0,
+            "trueDamageDealtToChampions": 4261,
+            "trueDamageTaken": 129,
+            "neutralMinionsKilledEnemyJungle": 4,
+            "firstInhibitorAssist": false,
+            "item5": 3026,
+            "unrealKills": 0,
+            "totalUnitsHealed": 4,
+            "wardsKilled": 1,
+            "firstBloodKill": false,
+            "item6": 3363,
+            "trueDamageDealt": 15245,
+            "objectivePlayerScore": 0,
+            "physicalDamageDealtToChampions": 31473,
+            "item3": 3072,
+            "item2": 3035,
+            "kills": 21,
+            "item4": 3031,
+            "totalPlayerScore": 0,
+            "tripleKills": 1,
+            "physicalDamageTaken": 12062,
+            "largestCriticalStrike": 1451,
+            "minionsKilled": 254,
+            "towerKills": 1,
+            "item0": 3255,
+            "magicDamageTaken": 16821,
+            "combatPlayerScore": 0,
+            "firstInhibitorKill": false,
+            "neutralMinionsKilledTeamJungle": 26,
+            "firstBloodAssist": false,
+            "goldEarned": 23809,
+            "deaths": 6,
+            "winner": true,
+            "visionWardsBoughtInGame": 0,
+            "totalDamageDealtToChampions": 63628,
+            "largestMultiKill": 3,
+            "neutralMinionsKilled": 30,
+            "magicDamageDealt": 171180,
+            "firstTowerKill": false,
+            "totalScoreRank": 0,
+            "quadraKills": 0
+        },
+        "spell2Id": 7,
+        "highestAchievedSeasonTier": "BRONZE",
+        "championId": 42
+    },
+    "region": "NA",
+    "matchVersion": "5.11.0.270",
+    "teams": {
+        "firstBaron": true,
+        "bans": [
+            {
+                "pickTurn": 2,
+                "championId": 245
+            },
+            {
+                "pickTurn": 4,
+                "championId": 7
+            },
+            {
+                "pickTurn": 6,
+                "championId": 254
+            }
+        ],
+        "firstBlood": true,
+        "vilemawKills": 0,
+        "firstDragon": true,
+        "dragonKills": 3,
+        "winner": true,
+        "teamId": 200,
+        "dominionVictoryScore": 0,
+        "baronKills": 3,
+        "towerKills": 10,
+        "inhibitorKills": 4,
+        "firstInhibitor": false,
+        "firstTower": false
+    },
+    "matchCreation": 1433976950634
+},
+{
+    "championName": "Corki",
+    "matchCreation": 1433976950634,
+    "matchDuration": 3429,
+    "queueType": "RANKED_SOLO_5x5",
+    "participants": {
+        "teamId": 200,
+        "championId": 42,
+        "highestAchievedSeasonTier": "BRONZE",
+        "timeline": {
+            "role": "DUO_CARRY",
+            "xpPerMinDeltas": {
+                "tenToTwenty": 328.6,
+                "zeroToTen": 313.3,
+                "twentyToThirty": 563.1,
+                "thirtyToEnd": 610.48
+            },
+            "lane": "BOTTOM",
+            "goldPerMinDeltas": {
+                "tenToTwenty": 296.5,
+                "zeroToTen": 199.0,
+                "twentyToThirty": 532.5,
+                "thirtyToEnd": 492.12
+            },
+            "damageTakenPerMinDeltas": {
+                "tenToTwenty": 193.6,
+                "zeroToTen": 176.2,
+                "twentyToThirty": 876.6,
+                "thirtyToEnd": 600.8
+            },
+            "creepsPerMinDeltas": {
+                "tenToTwenty": 4.2,
+                "zeroToTen": 5.4,
+                "twentyToThirty": 5.6,
+                "thirtyToEnd": 4.0
+            }
+        },
+        "spell1Id": 4,
+        "stats": {
+            "firstTowerAssist": false,
+            "firstTowerKill": false,
+            "item3": 3072,
+            "item2": 3035,
+            "totalTimeCrowdControlDealt": 808,
+            "wardsPlaced": 16,
+            "totalUnitsHealed": 4,
+            "totalDamageTaken": 29013,
+            "goldSpent": 20183,
+            "deaths": 6,
+            "physicalDamageDealt": 206638,
+            "magicDamageTaken": 16821,
+            "totalScoreRank": 0,
+            "combatPlayerScore": 0,
+            "item4": 3031,
+            "assists": 20,
+            "item0": 3255,
+            "inhibitorKills": 1,
+            "kills": 21,
+            "totalHeal": 6492,
+            "quadraKills": 0,
+            "neutralMinionsKilledEnemyJungle": 4,
+            "neutralMinionsKilled": 30,
+            "towerKills": 1,
+            "unrealKills": 0,
+            "largestCriticalStrike": 1451,
+            "tripleKills": 1,
+            "objectivePlayerScore": 0,
+            "trueDamageTaken": 129,
+            "trueDamageDealtToChampions": 4261,
+            "firstInhibitorKill": false,
+            "winner": true,
+            "neutralMinionsKilledTeamJungle": 26,
+            "sightWardsBoughtInGame": 1,
+            "pentaKills": 0,
+            "firstBloodKill": false,
+            "largestMultiKill": 3,
+            "magicDamageDealt": 171180,
+            "trueDamageDealt": 15245,
+            "killingSprees": 5,
+            "item5": 3026,
+            "totalDamageDealt": 393065,
+            "physicalDamageTaken": 12062,
+            "firstInhibitorAssist": false,
+            "physicalDamageDealtToChampions": 31473,
+            "totalPlayerScore": 0,
+            "wardsKilled": 1,
+            "magicDamageDealtToChampions": 27893,
+            "champLevel": 18,
+            "totalDamageDealtToChampions": 63628,
+            "minionsKilled": 254,
+            "goldEarned": 23809,
+            "item6": 3363,
+            "visionWardsBoughtInGame": 0,
+            "doubleKills": 4,
+            "largestKillingSpree": 5,
+            "firstBloodAssist": false,
+            "item1": 3078
+        },
+        "spell2Id": 7
+    },
+    "region": "NA",
+    "championTitle": "the Daring Bombardier",
+    "matchVersion": "5.11.0.270",
+    "teams": {
+        "inhibitorKills": 4,
+        "dominionVictoryScore": 0,
+        "dragonKills": 3,
+        "firstBaron": true,
+        "bans": [
+            {
+                "championId": 245,
+                "pickTurn": 2
+            },
+            {
+                "championId": 7,
+                "pickTurn": 4
+            },
+            {
+                "championId": 254,
+                "pickTurn": 6
+            }
+        ],
+        "towerKills": 10,
+        "baronKills": 3,
+        "firstBlood": true,
+        "firstInhibitor": false,
+        "firstDragon": true,
+        "vilemawKills": 0,
+        "teamId": 200,
+        "winner": true,
+        "firstTower": false
+    }
+}
+]
