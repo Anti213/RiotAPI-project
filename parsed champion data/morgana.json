@@ -1,0 +1,281 @@
+[
+{
+    "matchCreation": 1438037547896,
+    "teams": {
+        "vilemawKills": 0,
+        "firstBlood": false,
+        "firstTower": false,
+        "winner": true,
+        "dragonKills": 4,
+        "firstInhibitor": false,
+        "firstBaron": true,
+        "baronKills": 4,
+        "dominionVictoryScore": 0,
+        "inhibitorKills": 3,
+        "bans": [
+            {
+                "championId": 31,
+                "pickTurn": 2
+            },
+            {
+                "championId": 102,
+                "pickTurn": 4
+            },
+            {
+                "championId": 92,
+                "pickTurn": 6
+            }
+        ],
+        "firstDragon": true,
+        "towerKills": 10,
+        "teamId": 200
+    },
+    "region": "NA",
+    "matchDuration": 3806,
+    "participants": {
+        "spell1Id": 4,
+        "highestAchievedSeasonTier": "UNRANKED",
+        "stats": {
+            "item1": 3092,
+            "totalDamageDealtToChampions": 24626,
+            "firstInhibitorAssist": false,
+            "wardsKilled": 6,
+            "magicDamageDealtToChampions": 22040,
+            "firstBloodAssist": false,
+            "physicalDamageDealt": 14377,
+            "killingSprees": 0,
+            "assists": 31,
+            "item6": 3364,
+            "doubleKills": 0,
+            "pentaKills": 0,
+            "item0": 3026,
+            "largestKillingSpree": 0,
+            "largestMultiKill": 1,
+            "magicDamageTaken": 27864,
+            "firstBloodKill": false,
+            "firstTowerKill": false,
+            "unrealKills": 0,
+            "combatPlayerScore": 0,
+            "item2": 1329,
+            "item4": 3157,
+            "totalDamageTaken": 50311,
+            "objectivePlayerScore": 0,
+            "totalPlayerScore": 0,
+            "wardsPlaced": 44,
+            "visionWardsBoughtInGame": 0,
+            "quadraKills": 0,
+            "totalDamageDealt": 102540,
+            "itemNames": {
+                "itemName1": "Frost Queen's Claim",
+                "itemName4": "Zhonya's Hourglass"
+            },
+            "firstInhibitorKill": false,
+            "physicalDamageTaken": 15223,
+            "item5": 3065,
+            "winner": true,
+            "goldEarned": 19000,
+            "totalScoreRank": 0,
+            "neutralMinionsKilledTeamJungle": 0,
+            "trueDamageDealtToChampions": 1125,
+            "totalHeal": 9971,
+            "neutralMinionsKilledEnemyJungle": 0,
+            "totalTimeCrowdControlDealt": 288,
+            "inhibitorKills": 0,
+            "goldSpent": 16020,
+            "kills": 2,
+            "sightWardsBoughtInGame": 1,
+            "totalUnitsHealed": 1,
+            "item3": 2045,
+            "firstTowerAssist": false,
+            "trueDamageDealt": 1150,
+            "tripleKills": 0,
+            "largestCriticalStrike": 0,
+            "magicDamageDealt": 87012,
+            "physicalDamageDealtToChampions": 1460,
+            "neutralMinionsKilled": 0,
+            "deaths": 14,
+            "minionsKilled": 73,
+            "towerKills": 1,
+            "trueDamageTaken": 7223,
+            "champLevel": 18
+        },
+        "championId": 25,
+        "spell2Id": 3,
+        "teamId": 200,
+        "timeline": {
+            "creepsPerMinDeltas": {
+                "twentyToThirty": 0.6,
+                "zeroToTen": 0.7,
+                "thirtyToEnd": 1.6000000000000003,
+                "tenToTwenty": 0.7
+            },
+            "goldPerMinDeltas": {
+                "twentyToThirty": 282.8,
+                "zeroToTen": 155.2,
+                "thirtyToEnd": 336.76666666666665,
+                "tenToTwenty": 223.8
+            },
+            "damageTakenPerMinDeltas": {
+                "twentyToThirty": 669.3,
+                "zeroToTen": 131.3,
+                "thirtyToEnd": 1023.7333333333332,
+                "tenToTwenty": 327.7
+            },
+            "lane": "BOTTOM",
+            "role": "DUO_SUPPORT",
+            "xpPerMinDeltas": {
+                "twentyToThirty": 434.7,
+                "zeroToTen": 256.0,
+                "thirtyToEnd": 460.5,
+                "tenToTwenty": 240.7
+            }
+        }
+    },
+    "matchVersion": "5.14.0.329",
+    "championTitle": "Fallen Angel",
+    "championName": "Morgana",
+    "queueType": "RANKED_SOLO_5x5"
+},
+{
+    "championTitle": "Fallen Angel",
+    "teams": {
+        "firstBaron": true,
+        "firstDragon": true,
+        "bans": [
+            {
+                "pickTurn": 2,
+                "championId": 31
+            },
+            {
+                "pickTurn": 4,
+                "championId": 102
+            },
+            {
+                "pickTurn": 6,
+                "championId": 92
+            }
+        ],
+        "vilemawKills": 0,
+        "teamId": 200,
+        "towerKills": 10,
+        "firstBlood": false,
+        "firstTower": false,
+        "baronKills": 4,
+        "firstInhibitor": false,
+        "dragonKills": 4,
+        "inhibitorKills": 3,
+        "dominionVictoryScore": 0,
+        "winner": true
+    },
+    "region": "NA",
+    "queueType": "RANKED_SOLO_5x5",
+    "participants": {
+        "spell1Id": 4,
+        "timeline": {
+            "damageTakenPerMinDeltas": {
+                "twentyToThirty": 669.3,
+                "tenToTwenty": 327.7,
+                "zeroToTen": 131.3,
+                "thirtyToEnd": 1023.7333333333332
+            },
+            "lane": "BOTTOM",
+            "creepsPerMinDeltas": {
+                "twentyToThirty": 0.6,
+                "tenToTwenty": 0.7,
+                "zeroToTen": 0.7,
+                "thirtyToEnd": 1.6000000000000003
+            },
+            "goldPerMinDeltas": {
+                "twentyToThirty": 282.8,
+                "tenToTwenty": 223.8,
+                "zeroToTen": 155.2,
+                "thirtyToEnd": 336.76666666666665
+            },
+            "role": "DUO_SUPPORT",
+            "xpPerMinDeltas": {
+                "twentyToThirty": 434.7,
+                "tenToTwenty": 240.7,
+                "zeroToTen": 256.0,
+                "thirtyToEnd": 460.5
+            }
+        },
+        "stats": {
+            "largestMultiKill": 1,
+            "item1": 3092,
+            "physicalDamageDealtToChampions": 1460,
+            "item0": 3026,
+            "physicalDamageDealt": 14377,
+            "item6": 3364,
+            "wardsPlaced": 44,
+            "firstTowerKill": false,
+            "objectivePlayerScore": 0,
+            "assists": 31,
+            "totalScoreRank": 0,
+            "doubleKills": 0,
+            "totalHeal": 9971,
+            "largestKillingSpree": 0,
+            "firstInhibitorAssist": false,
+            "item3": 2045,
+            "trueDamageDealtToChampions": 1125,
+            "item2": 1329,
+            "neutralMinionsKilled": 0,
+            "trueDamageDealt": 1150,
+            "firstBloodAssist": false,
+            "magicDamageDealtToChampions": 22040,
+            "item4": 3157,
+            "minionsKilled": 73,
+            "magicDamageDealt": 87012,
+            "item5": 3065,
+            "kills": 2,
+            "totalUnitsHealed": 1,
+            "neutralMinionsKilledTeamJungle": 0,
+            "neutralMinionsKilledEnemyJungle": 0,
+            "largestCriticalStrike": 0,
+            "sightWardsBoughtInGame": 1,
+            "quadraKills": 0,
+            "totalDamageDealtToChampions": 24626,
+            "champLevel": 18,
+            "unrealKills": 0,
+            "physicalDamageTaken": 15223,
+            "totalDamageTaken": 50311,
+            "firstTowerAssist": false,
+            "totalPlayerScore": 0,
+            "goldEarned": 19000,
+            "firstBloodKill": false,
+            "wardsKilled": 6,
+            "goldSpent": 16020,
+            "winner": true,
+            "pentaKills": 0,
+            "tripleKills": 0,
+            "firstInhibitorKill": false,
+            "trueDamageTaken": 7223,
+            "totalDamageDealt": 102540,
+            "towerKills": 1,
+            "deaths": 14,
+            "totalTimeCrowdControlDealt": 288,
+            "killingSprees": 0,
+            "visionWardsBoughtInGame": 0,
+            "magicDamageTaken": 27864,
+            "combatPlayerScore": 0,
+            "itemNames": {
+                "itemName4": "Zhonya's Hourglass",
+                "itemName1": "Frost Queen's Claim",
+                "itemName3": "N/A",
+                "itemName2": "N/A",
+                "itemName6": "N/A",
+                "itemName0": "N/A",
+                "itemName5": "N/A"
+            },
+            "inhibitorKills": 0
+        },
+        "highestAchievedSeasonTier": "UNRANKED",
+        "spell2Id": 3,
+        "teamId": 200,
+        "championId": 25
+    },
+    "matchCreation": 1438037547896,
+    "matchVersion": "5.14.0.329",
+    "championName": "Morgana",
+    "matchDuration": 3806
+}
+]
