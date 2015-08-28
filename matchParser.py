@@ -44,12 +44,13 @@ def makeParticipantDictionaries(data, itemRef, championRef):
 	
 	# lvl 1
 	categories = ['teams', 'matchVersion', 'queueType', 
-				  'matchCreation', 'region', 'matchDuration']
+				  'matchCreation', 'region', 'matchDuration',
+				  'matchId']
 	# cut teams, participants
 
 	# lvl 2
 	# 'participants' exceptions
-	p_Exceptions = ['masteries', 'participantId', 'runes', 'timeline']				  
+	p_Exceptions = ['masteries', 'runes', 'timeline']				  
 	# lvl 3
 	teamsExceptions = ['dominionVictoryScore', 'vilemawKills']
 	#'timeline' exceptions
